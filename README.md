@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi 👋, I'm Nethma Charuni</h1>
+<h1 align="center">Hi 👋, I'm Charuni Samarakoon</h1>
 <h3 align="center">A passionate Frontend Developer & UI/UX Designer from Sri Lanka</h3>
 
 ---
